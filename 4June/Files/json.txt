@@ -1,0 +1,44 @@
+[
+        {
+            "item_id": "123456",
+            "item_name": "Linen Shirt",
+            "item_params": [
+                {
+                    "key": "currency",
+                    "value": {
+                        "string_value": "GBP"
+                    }
+                }
+            ],
+            "item_revenue": 39,
+            "quantity": 1
+        },
+        {
+            "item_id": "7654321",
+            "item_name": "Gloves",
+            "item_params": [
+                {
+                    "key": "currency",
+                    "value": {
+                        "string_value": "GBP"
+                    }
+                }
+            ],
+            "item_revenue": 7.5,
+            "quantity": 1
+        },
+        {
+            "item_id": "12345",
+            "item_name": "Frisbee",
+            "item_params": [
+                {
+                    "key": "currency",
+                    "value": {
+                        "string_value": "GBP"
+                    }
+                }
+            ],
+            "item_revenue": 13.98,
+            "quantity": 2
+        }
+    ]
